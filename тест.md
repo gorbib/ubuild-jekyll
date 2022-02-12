@@ -21,6 +21,5 @@ page_sections:
     headline: ''
     slug: ''
     content: ''
-published: false
 
 ---
