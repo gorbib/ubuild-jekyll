@@ -8,6 +8,5 @@ page_sections:
   image: "/uploads/2018/06/21/edit.gif"
   caption: ggg
   slug: ggg
-published: false
 
 ---
