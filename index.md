@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
+  - link: "/test2"
+    link_text: тест2
   - link: "/тест"
     link_text: Тест
   - link: "/"
